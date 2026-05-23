@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+*.rld
+*.windog
+*.csv
+!requirements.txt
+output/
+*.docx
+*.png
